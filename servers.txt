@@ -1,0 +1,5 @@
+# Comment Line
+# MOTD do servidor (suporta caractere §); IP do Servidor
+
+§4§k;;;§c A Era Mortal §4§k;;;§e (hardcore); 25565
+§aLendarius§eCraft§9 (survival); 25564
